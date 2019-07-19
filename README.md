@@ -1,7 +1,7 @@
 # Insight_Perfume_Match
 Perfume Match: a new way to find your next perfume.
 
-PerfumeMatch is a Flask-based descriptive perfume recommendation web-app that I developed during Insight. This folder include all the data and codes.
+Perfume Match is a Flask-based descriptive perfume recommendation web-app that I developed during Insight. This folder include all the data and codes.
 
 Please check: www.perfumematchcc.com
 
