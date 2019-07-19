@@ -1,7 +1,8 @@
 # Insight_Perfume_Match
 Perfume Match: a new way to find your next perfume.
 
-PerfumeMatch is a Flask-based descriptive perfume recommendation web-app that I developed during Insight. 
+PerfumeMatch is a Flask-based descriptive perfume recommendation web-app that I developed during Insight. This folder include all the data and codes.
+
 Please check: www.perfumematchcc.com
 
 Main metrics that were used:
@@ -10,4 +11,3 @@ Main metrics that were used:
 - applied singular value decomposition (SVD) for dimension reduction
 - Devised new similarity-based recommendation algorithm; recommended perfumes for individual users
 
-This folder include all the data and codes.
